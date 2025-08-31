@@ -1,0 +1,25 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is React app learning stuff",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prafullkumar/NamasteReact.git"
+  },
+  "author": "Prafull Tupe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prafullkumar/NamasteReact/issues"
+  },
+  "homepage": "https://github.com/prafullkumar/NamasteReact#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
